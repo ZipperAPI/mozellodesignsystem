@@ -3,7 +3,7 @@
 // ::::: GLobal Javascript ::::
 // ================================Animate Interaction on Scroll ==================================
 JOS.init({
-  // disable: false, // Disable JOS gloabaly | Values :  'true', 'false'
+  disable: true, // Disable JOS gloabaly | Values :  'true', 'false'
   // debugMode: true, // Enable JOS debug mode | Values :  'true', 'false'
   passive: false, // Set the passive option for the scroll event listener | Values :  'true', 'false'
 
